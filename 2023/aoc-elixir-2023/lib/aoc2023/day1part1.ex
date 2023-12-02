@@ -1,4 +1,4 @@
-defmodule Day1.Day1part1 do
+defmodule Aoc2023.Day1part1 do
   def get_int([]) do
     nil
   end
